@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "RelatedWorkSaver",
+    "version": "1.0",
+    "description": "Save the main gist from pdf's to a specified table with a single click",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "RelatedWorkSaver"
+    },
+    "permissions": [
+        "tabs",
+        "storage"
+    ]
+  }
